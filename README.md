@@ -3,7 +3,7 @@
 ## Usage
 
 The script can be run either on Jupyterhub or your own computer. Running the script on your own computer requires 
-Python3 and package 'pandas', which can be installed by running ```pip install pandas```. The hub will have all the 
+Python3 and the package 'pandas', which can be installed by running ```pip install pandas```. The hub will have all the 
 required tools installed by default.  
   
 Run the following commands in a terminal:
