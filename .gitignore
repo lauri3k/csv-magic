@@ -1,0 +1,5 @@
+.idea
+venv
+out.csv
+eduflow_scores.csv
+list_of_students.csv
