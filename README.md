@@ -1,7 +1,7 @@
 # Script for combining CSVs
 
-The script can be run either on Jupyterhub or your own computer. Running the script on your own computer requires 
-Python3 and the package 'pandas', which can be installed by running ```pip install pandas```. The hub will have all the 
+The script can be run either on JupyterHub or your own computer. Running the script on your own computer requires 
+Python3 and the package 'pandas', which can be installed by running ```pip install pandas``` (given that python is already installed). The hub will have all the 
 required tools installed by default.  
 
 ## Usage
