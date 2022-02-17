@@ -1,10 +1,10 @@
 # Script for combining CSVs
 
-## Usage
-
 The script can be run either on Jupyterhub or your own computer. Running the script on your own computer requires 
 Python3 and the package 'pandas', which can be installed by running ```pip install pandas```. The hub will have all the 
 required tools installed by default.  
+
+## Usage
   
 Run the following commands in a terminal:
 1. First copy the script to your machine/server by running ```git clone https://github.com/lauri3k/csv-magic```. 
